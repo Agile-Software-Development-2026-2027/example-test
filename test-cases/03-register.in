@@ -1,0 +1,18 @@
+SALES
+RESTOCK dough 10
+RESTOCK tomato 10
+RECIPE marinara dough tomato
+RECIPE margherita dough tomato
+RECIPE cosacca dough tomato
+ORDER marinara
+SALES
+ORDER margherita
+ORDER cosacca
+SALES
+ORDER cosacca
+ORDER cosacca
+ORDER marinara
+RECIPE bianca dough mozzarella
+ORDER bianca
+SALES
+SALES now

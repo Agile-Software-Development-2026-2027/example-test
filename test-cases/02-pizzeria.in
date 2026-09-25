@@ -1,0 +1,19 @@
+RESTOCK dough 3
+RESTOCK mozzarella 3
+RESTOCK basil 1
+RECIPE margherita dough mozzarella basil
+ORDER margherita
+ORDER margherita
+RECIPE margherita dough mozzarella
+ORDER margherita
+STOCK dough
+RECIPE bufala dough mozzarella mozzarella
+ORDER bufala
+ORDER diavola
+RECIPE diavola
+ORDER
+RESTOCK salami 1
+RECIPE diavola dough salami chili
+ORDER diavola
+STOCK dough
+ORDER capricciosa now

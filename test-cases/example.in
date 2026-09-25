@@ -1,0 +1,16 @@
+RESTOCK dough 2
+RESTOCK tomato 3
+RESTOCK mozzarella 1
+RECIPE margherita dough tomato mozzarella
+RECIPE marinara dough tomato garlic
+ORDER margherita
+ORDER margherita
+ORDER marinara
+RESTOCK garlic 1
+CAN marinara
+ORDER marinara
+SALES
+STOCK dough
+CAN margherita
+ORDER pineapple
+TRASH tomato 0

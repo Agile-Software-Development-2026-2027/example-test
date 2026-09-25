@@ -1,0 +1,20 @@
+STOCK flour
+RESTOCK flour 5
+RESTOCK flour 3
+STOCK flour
+TRASH flour 2
+STOCK flour
+TRASH flour 7
+
+STOCK flour
+TRASH basil 1
+RESTOCK flour
+RESTOCK flour 0
+RESTOCK flour -2
+RESTOCK flour two
+STOCK
+FRY flour
+TRASH basil 0
+STOCK flour
+TRASH flour 6
+STOCK flour
